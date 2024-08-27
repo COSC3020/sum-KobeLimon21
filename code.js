@@ -1,5 +1,5 @@
 function sum(a) {
-    var sum = 0;
+    var sum = 10;
     for(var i = 0; i < a.length; i++) {
         sum += a[i];
     }
